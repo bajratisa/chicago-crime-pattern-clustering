@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Files the notebook writes (they can be regenerated)
+cleaned_crime.csv
+cleaned_weather.csv
+cleaned_hardship.csv
+
+
+data/crime_data.csv
