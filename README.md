@@ -5,7 +5,9 @@ Do Chicago's neighborhoods differ in the **kind** of crime they have, and does t
 This project groups Chicago's 77 community areas into crime profiles based on the mix of crime types reported in each area, then tests whether those profiles are linked to socioeconomic hardship and to seasonal and temperature patterns. It is a pattern finding project, not a prediction project.
 
 **Course:** Computer Programming for Data Science and Artificial Intelligence, Asian Institute of Technology (AIT), August 2026 semester
+
 **Instructor:** Dr. Chantri Polprasert
+
 **Status:** progress stage
 
 ## Objective
