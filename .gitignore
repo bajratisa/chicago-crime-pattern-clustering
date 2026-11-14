@@ -20,3 +20,11 @@ cleaned_hardship.csv
 
 
 data/crime_data.csv
+
+# keep the big raw and cleaned data files off GitHub
+data/*.csv
+cleaned_*.csv
+
+# but always include the website's small data files
+!website/app_data/
+!website/app_data/*.csv

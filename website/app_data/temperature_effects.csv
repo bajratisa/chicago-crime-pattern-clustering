@@ -1,0 +1,7 @@
+Crime group,Model,Percent per 10°F,CI low,CI high
+All crime,Controlled,5.9,5.1,6.7
+All crime,Controlled + yesterday,3.3,2.8,3.8
+Violent,Controlled,6.7,6.0,7.4
+Violent,Controlled + yesterday,4.9,4.4,5.5
+Property,Controlled,5.3,4.2,6.5
+Property,Controlled + yesterday,2.8,2.2,3.5
