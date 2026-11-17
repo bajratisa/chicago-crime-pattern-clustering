@@ -146,7 +146,7 @@ The website only needs the three files in `website/app_data/`, so it runs withou
 - National Oceanic and Atmospheric Administration, National Centers for Environmental Information. Daily Summaries, station USW00094846.
 - Great Cities Institute, University of Illinois Chicago. Chicago community area hardship index, 2019 to 2023.
 - Chicago Health Atlas.
-- Website map tiles © OpenStreetMap contributors © CARTO.
+- Website map tiles © OpenStreetMap contributors.
 
 ## License
 

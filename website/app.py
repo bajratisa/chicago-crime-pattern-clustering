@@ -1,6 +1,6 @@
 """
 Chicago's Crime Mix
-A plain language website for the Urban Crime Pattern Clustering in Chicago (2020 to 2025) project.
+A website for the Urban Crime Pattern Clustering in Chicago (2020 to 2025) project.
 All numbers come from the summary tables in app_data, exported from the analysis notebook.
 """
 
@@ -137,11 +137,11 @@ def one_in(share):
 
 
 def add_basemap(fig):
-    """Light street map drawn from raster tiles, so the circles still show if the tiles are slow to load."""
+    """Free OpenStreetMap street tiles (no API key needed), softened so the coloured circles stay in front."""
     fig.update_layout(map_layers=[{
-        "below": "traces", "sourcetype": "raster",
-        "sourceattribution": "© OpenStreetMap contributors © CARTO",
-        "source": ["https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"]}])
+        "below": "traces", "sourcetype": "raster", "opacity": 0.6,
+        "sourceattribution": "© OpenStreetMap contributors",
+        "source": ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"]}])
     return fig
 
 
