@@ -7,7 +7,7 @@ This project groups Chicago's 77 community areas into crime profiles based on th
 - **Course:** Computer Programming for Data Science and Artificial Intelligence, Asian Institute of Technology (AIT), August 2026 semester
 - **Instructor:** Dr. Chantri Polprasert
 - **Status:** final stage
-- **Live website:** 
+- **Live website:** https://chicago-crime-mix.streamlit.app/ 
 
 ## Objective
 
