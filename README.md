@@ -7,6 +7,7 @@ This project groups Chicago's 77 community areas into crime profiles based on th
 - **Course:** Computer Programming for Data Science and Artificial Intelligence, Asian Institute of Technology (AIT), August 2026 semester
 - **Instructor:** Dr. Chantri Polprasert
 - **Status:** final stage
+- **Team:** NekoLab: Tisa Bajracharya (st126686), Min Thant Win (st127145)
 - **Live website:** https://chicago-crime-mix.streamlit.app/ 
 
 ## Objective
@@ -84,7 +85,7 @@ Full details, column names and download instructions are in [`data/README.md`](d
    pip install -r requirements.txt
    ```
 
-4. Put the four data files in the `data/` folder (see `data/README.md`).
+4. Download `crime_data.csv` and put it in the `data/` folder (see `data/README.md`). The other three data files are already in the repository. The crime file is about 280 MB, which is too big for GitHub.
 
 5. Open `final_analysis.ipynb` in Jupyter or VS Code and choose **Restart and Run All**. Always run the notebook from the top, because later cells depend on variables created earlier.
 
