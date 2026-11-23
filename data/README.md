@@ -34,4 +34,4 @@ Population, longitude and latitude of each community area from a Chicago Health 
 
 ## Large files
 
-GitHub rejects any single file over 100 MB and warns above 50 MB. If `crime_data.csv` is too large, either track it with Git LFS (see the main instructions) or leave it out of the repository by removing the `#` in front of `data/crime_data.csv` in `.gitignore`, and keep the download instructions above.
+`crime_data.csv` is about 280 MB, which is over GitHub's 100 MB limit, so it is not in the repository. Download it from the Chicago Data Portal as described above. The other three files are small and are included.
