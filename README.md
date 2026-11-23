@@ -8,7 +8,8 @@ This project groups Chicago's 77 community areas into crime profiles based on th
 - **Instructor:** Dr. Chantri Polprasert
 - **Status:** final stage
 - **Team:** NekoLab: Tisa Bajracharya (st126686), Min Thant Win (st127145)
-- **Live website:** https://chicago-crime-mix.streamlit.app/ 
+- **Live website:** https://chicago-crime-mix.streamlit.app/
+- - **Final report and slides:** see the [`docs`](docs/) folder
 
 ## Objective
 
